@@ -58,7 +58,6 @@ Thumbs.db
 git.env
 *.sqlite3
 *.db
-*.zip
 
 # Gemini
 .gemini/
