@@ -58,12 +58,11 @@ Thumbs.db
 git.env
 *.sqlite3
 *.db
-data/
+/data/
 
 # Gemini
 .gemini/
 
 # Excluded folders
 Extra/
-# data/
 
